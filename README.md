@@ -1,8 +1,10 @@
 # Stochastik und die Überraschungen der Unwissenden
 
-Einfache Zusammenhänge viel zitierter Größen
+![InziSpeziSens](InziSpeziSens.png "Guckst Du hier")
 
-[![Nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/urls/gitlab.uni-hannover.de/gruber/inzispezisens/-/raw/main/InziSpeziSens.ipynb)
+Einfache Zusammenhänge viel zitierter Größen zum Nachlesen und Experimentieren
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.uni-hannover.de%2Fgruber%2Finzispezisens/main?filepath=InziSpeziSens.ipynb)
+- statische Version (gemäß den aktuellen Mindestanforderungen an Corona-Schnelltests): [![Nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg "render on NBviewer")](https://nbviewer.jupyter.org/urls/gitlab.uni-hannover.de/gruber/inzispezisens/-/raw/main/InziSpeziSens.ipynb)
+
+- dynamische Version (zum Anpassen der Parameter und Experimentieren): [![Binder](https://mybinder.org/badge_logo.svg "launch on Binder")](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.uni-hannover.de%2Fgruber%2Finzispezisens/main?filepath=InziSpeziSens.ipynb)
 
